@@ -1,0 +1,13 @@
+{
+    "name": "zhonglian-finance/credit_open",
+    "repositories": [
+	],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-0": {
+        }
+    },
+    "minimum-stability": "stable"
+}
